@@ -1,8 +1,7 @@
 # GHCN-D United States Station Map
 
-🌍 **Live Interactive Map:** [https://sdiggs.github.io/ghcn-d](https://sdiggs.github.io/ghcn-d)
+🌍 **Live Interactive Map:** [https://sdiggs.github.io/ghdc-d/](https://sdiggs.github.io/ghdc-d/)
 
-https://sdiggs.github.io/ghdc-d/
 
 ## About This Project
 
