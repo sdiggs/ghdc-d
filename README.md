@@ -2,6 +2,8 @@
 
 🌍 **Live Interactive Map:** [https://sdiggs.github.io/ghcn-d](https://sdiggs.github.io/ghcn-d)
 
+https://sdiggs.github.io/ghdc-d/
+
 ## About This Project
 
 This repository hosts an interactive leaflet map visualizing the geographical distribution of United States weather stations included in the **Global Historical Climatology Network-Daily (GHCN-D)**. 
